@@ -1,0 +1,102 @@
+CCTV1HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV2HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV3HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV4HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV5HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV6HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+CCTV7HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV8HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV9HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV10HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV11HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV12HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV13HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV14HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV15HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV17HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV5+HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV 4K,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CGTN HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+共同战疫,http://mobilelive-play.ysp.cctv.cn/2002143101_fhd.m3u8#http://newsalic.v.myalicdn.com/news/new10_1/index.m3u8?contentid=2820180516001
+北京卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+江苏卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+东方卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+浙江卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+广东卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+深圳卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+湖南卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+湖北卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+安徽卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+重庆卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+山东卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+江西卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+河南卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河北卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+广西卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+东南卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+海南卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+四川卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+贵州卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+黑龙江卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+辽宁卫视HD,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+天津卫视,http://39.135.34.14:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000831&owchid=ystenlive&owsid=1106497909461255731&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRcs9zLA6x183T6XfyDHK2Forh1U1TuZtCxYnIsImE91weAhYebQgGPi666EsPHwzC
+陕西卫视,http://39.135.34.13:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
+山西卫视,http://39.135.34.15:18890/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021220&owchid=ystenlive&owsid=1106497909461381684&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhBGE2Bozg3VsjEsUfSwW1u%2f9d7qakC2cNwU6d3XLtivLzsKwupm4i1w5mp8nPnKP8
+云南卫视,http://39.135.34.14:18890/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024694&owchid=ystenlive&owsid=1106497909461387812&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5LeWQtTPRcwTT4zmEXlA%2fwzvDSa%2fxaofg6Rpl19xhoQ1lNgovjV%2baMdiH1BrPHH%2b
+甘肃卫视,http://39.135.34.15:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
+青海卫视,http://39.135.34.14:18890/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000013359&owchid=ystenlive&owsid=1106497909461374163&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhJ4u8mZ9HohO4vJAcHWQKsu0WB2heV8z3%2bnCiQyrISnc%2fLQjwPdTUSlBahL%2bKNKpM
+珠江卫视,http://39.135.34.15:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000004000011655&owchid=ystenlive&owsid=1106497909461268935&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4vNKx96%2bA3ppi2THlI0VlIDxwgnRBxQnnbWKTW8MTwvyEFUHTa6diXnUM1ACyB1BC6aNBSsOM3YI3qaHRRxYZp
+南方卫视,http://39.135.34.15:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
+宁夏卫视,http://39.135.34.15:18890/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031451&owchid=ystenlive&owsid=1106497909461406396&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhdYL5WAeBmY961KZAiDk7oIQRwL3YBarKlFU8QNIToCi96iZhaB6NBJIISIjQ00jB
+吉林卫视,http://39.135.34.14:18890/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6042486520432105075&owchid=ystenlive&owsid=1106497909461400661&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9%2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06%2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
+内蒙古卫视,http://39.135.34.13:18890/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000014080&owchid=ystenlive&owsid=1106497909461412819&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhN3VZo%2fq60rUnbic%2fTx5hxEUA%2fCrpP4GEvV3vfXDDDKv4OC8OhxCTOd9DFYTiOuf7
+新疆卫视,http://39.135.34.14:18890/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000029441&owchid=ystenlive&owsid=1106497909461419044&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5I4MdhcP3Mp5W80M2R4dfnt8vf6miKZMTn2f0J2ZVbDi2MMl6qImE0%2bmFOeDvrFW
+西藏卫视,http://39.135.34.14:18890/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=1106497909461425998&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
+山东教育,http://111.12.110.81:6610/000000001000/7341476808603780321/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=e15b57852d9cd94f58b9ccb1755d812821vv&usergroup=g21077200000&version=1.0&owaccmark=7341476808603780321&owchid=ystenlive&owsid=4493204828792189840&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6fKRK7GAM8s7D%2bvkwMK3SOqEA4VgxLdMGzRQx4LjQbnpNG5Yxx8PWi4awKDvN4RIT%2bt59nOe%2fS6tNZ0ayvMsdu&IASHttpSessionId=SLB1152820180727152955665773
+哈哈炫动,http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+优漫卡通,http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+卡酷卡通,http://101.71.255.229:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+嘉佳卡通,http://101.71.255.229:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+金鹰卡通,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+黑莓电影HD,http://39.135.34.16:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031726
+黑莓动画HD,http://39.135.34.22:18890/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035865
+NewTV 精品大剧,http://39.135.34.13:18890/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036134
+NewTV 中国功夫,http://39.135.34.13:18890/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033066
+NewTV 金牌综艺,http://39.135.34.19:18890/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035200
+NewTV 农业致富,http://39.135.34.12:18890/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034958
+NewTV 精品记录,http://39.135.34.12:18890/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035086
+NewTV 精品体育,http://39.135.34.15:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038511
+NewTV 潮妈辣婆,http://39.135.34.16:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033647
+NewTV 炫舞未来,http://39.135.34.5:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032461
+NewTV 明星大片,http://39.135.34.19:18890/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035213
+NewTV 自由搏击,http://39.135.34.13:18890/000000001000/bokesen/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036942
+NewTV 海外综合,http://39.135.34.7:18890/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037503
+NewTV 惊梀悬疑,http://39.135.34.21:18890/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035904
+NewTV 家庭剧场,http://39.135.34.22:18890/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033011
+NewTV 动作电影,http://39.135.34.16:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035975
+NewTV 古装剧场,http://39.135.34.13:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038365
+NewTV 军旅剧场,http://39.135.34.13:18890/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035128
+NewTV 爱情喜剧,http://39.135.34.19:18890/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032920
+NewTV 军事评论,http://39.135.34.13:18890/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038814
+NewTV 健康有约,http://39.135.34.18:18890/000000001000/7820874641606664941/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033439
+爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱浪漫,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱没事,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+凤凰卫视HD,http://liveali.ifeng.com/live/FHZW.m3u8
+凤凰资讯HD,http://liveali.ifeng.com/live/FHZX.m3u8
