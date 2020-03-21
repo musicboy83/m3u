@@ -125,7 +125,7 @@ http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卫视频道",优漫卡通
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视频道",KAKU少儿
+#EXTINF:-1 tvg-id="144" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视频道",KAKU少儿
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视频道",山东教育卫视
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
