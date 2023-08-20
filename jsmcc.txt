@@ -131,8 +131,8 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 仪征电视台,http://ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
 上海文广,#genre#
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-上海都市频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
-上海东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
+上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 劲爆体育,http://39.134.19.234:6610/000000001000/5000000002000029972/1.m3u8?Contentid=5000000002000029972&livemode=1&stbId=2&channel-id=bestzb
@@ -169,10 +169,9 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 陶瓷频道,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=taocihd/8000000
 青春动漫,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=qcdm8m/8000000
 数字频道,#genre#
-北京纪实,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 陶瓷频道,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
-乐游,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
 茶频道,http://39.145.2.19/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/d1.m3u8
 快乐垂钓,http://39.145.2.19/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/d1.m3u8
 金鹰纪实,http://39.145.2.19/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/d1.m3u8
