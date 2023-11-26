@@ -190,6 +190,7 @@ CCTV老故事,http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 CCTV中学生,http://ott.mobaibox.com/PLTV/3/224/3221228704/index.m3u8
 纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+百姓生活,http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 陶瓷频道,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 茶频道,http://39.145.2.19/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/d1.m3u8
 快乐垂钓,http://39.145.2.19/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/d1.m3u8
@@ -235,4 +236,6 @@ NewTV轮播频道,#genre#
 汪汪队立大功,http://ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8
 熊出没,http://ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
-动画片1,http://ott.mobaibox.com/PLTV/3/224/3221228447/index.m3u8
+二更,http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
+知否知否,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+
