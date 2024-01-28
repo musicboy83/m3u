@@ -66,7 +66,7 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 兵团卫视,http://ott.mobaibox.com/PLTV/3/224/3221227025/index.m3u8
 延边卫视,http://ott.mobaibox.com/PLTV/3/224/3221227002/index.m3u8
 农林卫视,http://ott.mobaibox.com/PLTV/3/224/3221227015/index.m3u8
-哈哈少儿,http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
+哈哈炫动,http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
 金鹰卡通,http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
 优漫卡通,http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 卡酷少儿,http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
