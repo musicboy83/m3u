@@ -149,7 +149,7 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 法治天地,http://222.67.186.183:9009/udp/239.45.1.46:5140#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 生活时尚,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?Contentid=5000000002000019634&livemode=1&stbId=2&channel-id=bestzb#http://222.67.186.183:9009/udp/239.45.3.132:5140
 新视觉,http://alltzy.cn/dl/bestv.php?id=xsjhd8m/8000000
-七彩戏剧,http://alltzy.cn/dl/bestv.php?id=qcxjhd8m/8000000#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
+七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/1.m3u8?Contentid=5000000011000031116&livemode=1&stbId=2&channel-id=bestzb#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 金色学堂,http://alltzy.cn/dl/bestv.php?id=jingsepd8m/8000000#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000027005/1.m3u8?Contentid=5000000002000027005&livemode=1&stbId=2&channel-id=bestzb#http://222.67.186.183:9009/udp/239.45.3.131:5140
 上海教育,http://alltzy.cn/dl/bestv.php?id=setvhd/8000000#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
