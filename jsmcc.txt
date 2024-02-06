@@ -173,6 +173,14 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8
+咪咕精彩足球,http://ott.mobaibox.com/PLTV/1/224/3221228129/index.m3u8
+咪咕综合体育,http://ott.mobaibox.com/PLTV/1/224/3221228206/index.m3u8
+体坛同期声,http://ott.mobaibox.com/PLTV/1/224/3221228713/index.m3u8
+掼蛋频道,http://ott.mobaibox.com/PLTV/1/224/3221228586/index.m3u8
+全民热练,http://ott.mobaibox.com/PLTV/1/224/3221228427/index.m3u8
+百姓生活,http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
+亲宝玩具,http://ott.mobaibox.com/PLTV/1/224/3221228638/index.m3u8
+纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 CCTV电视指南,http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
 CCTV文化精品,http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
@@ -189,8 +197,6 @@ CCTV发现之旅,http://ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
 CCTV老故事,http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 CCTV中学生,http://ott.mobaibox.com/PLTV/3/224/3221228704/index.m3u8
 纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-百姓生活,http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 陶瓷频道,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 茶频道,http://39.145.2.19/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000
 快乐垂钓,http://39.145.2.19/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000
@@ -231,10 +237,12 @@ NewTV轮播频道,#genre#
 江苏第一院线,http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 电视剧1,http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
 电视剧2,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+电视剧3,http://ott.mobaibox.com/PLTV/1/224/3221228583/index.m3u8
 德凯奥特曼,http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
 小猪佩奇,http://ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8
 汪汪队立大功,http://ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8
 熊出没,http://ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
 二更,http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
-知否知否,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+庆余年,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+繁花,http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
