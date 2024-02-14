@@ -256,45 +256,45 @@ http://ott.mobaibox.com/PLTV/3/224/3221228533/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226392/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",仪征电视台
 http://ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
-#EXTINF:-1 tvg-id="199" tvg-name="上海新闻综合" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai2.png" group-title="上海文广",上海新闻
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?Contentid=5000000011000031110&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="199" tvg-name="上海新闻综合" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai2.png" group-title="上海文广",上海新闻
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?Contentid=5000000011000031110&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="263" tvg-name="上海都市" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai2.png" group-title="上海文广",上海都市
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/1.m3u8?Contentid=5000000010000018926&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="263" tvg-name="上海都市" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai2.png" group-title="上海文广",上海都市
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/1.m3u8?Contentid=5000000010000018926&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="195" tvg-name="东方影视" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai3.png" group-title="上海文广",东方影视
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?Contentid=5000000010000032212&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="195" tvg-name="东方影视" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai3.png" group-title="上海文广",东方影视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?Contentid=5000000010000032212&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="197" tvg-name="上海外语" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai4.png" group-title="上海文广",上海外语
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951/1.m3u8?Contentid=5000000010000030951&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="197" tvg-name="上海外语" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai4.png" group-title="上海文广",上海外语
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951/1.m3u8?Contentid=5000000010000030951&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="170" tvg-name="五星体育" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai5.png" group-title="上海文广",五星体育
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?Contentid=5000000010000017540&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="170" tvg-name="五星体育" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai5.png" group-title="上海文广",五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?Contentid=5000000010000017540&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="176" tvg-name="劲爆体育" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jbty.png" group-title="上海文广",劲爆体育
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?Contentid=5000000002000029972&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="176" tvg-name="劲爆体育" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jbty.png" group-title="上海文广",劲爆体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?Contentid=5000000002000029972&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="186" tvg-name="魅力足球" tvg-logo="https://pic.erw.cc/epglogo/shuzi/mlzq.png" group-title="上海文广",魅力足球
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?Contentid=5000000011000031207&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="186" tvg-name="魅力足球" tvg-logo="https://pic.erw.cc/epglogo/shuzi/mlzq.png" group-title="上海文广",魅力足球
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?Contentid=5000000011000031207&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="198" tvg-name="第一财经" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dycj.png" group-title="上海文广",第一财经
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?Contentid=5000000010000027146&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="198" tvg-name="第一财经" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dycj.png" group-title="上海文广",第一财经
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?Contentid=5000000010000027146&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="174" tvg-name="东方财经" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dfcj.png" group-title="上海文广",东方财经
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?Contentid=5000000007000010003&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="174" tvg-name="东方财经" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dfcj.png" group-title="上海文广",东方财经
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?Contentid=5000000007000010003&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="上海文广",欢笑剧场
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/1.m3u8?Contentid=5000000002000009455&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="183" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="上海文广",欢笑剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/1.m3u8?Contentid=5000000002000009455&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="上海文广",都市剧场
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000004412/1.m3u8?Contentid=5000000002000004412&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="上海文广",都市剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000004412/1.m3u8?Contentid=5000000002000004412&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="175" tvg-name="动漫秀场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dmxc.png" group-title="上海文广",动漫秀场
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/1.m3u8?Contentid=5000000002000023636&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="175" tvg-name="动漫秀场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dmxc.png" group-title="上海文广",动漫秀场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/1.m3u8?Contentid=5000000002000023636&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hhxd.png" group-title="上海文广",哈哈炫动
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?Contentid=5000000011000031123&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="209" tvg-name="哈哈炫动" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hhxd.png" group-title="上海文广",哈哈炫动
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?Contentid=5000000011000031123&livemode=1&stbId=2&channel-id=bestzb
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="196" tvg-name="纪实人文" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsrw.png" group-title="上海文广",纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
-#EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="上海文广",乐游
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031112/1.m3u8?Contentid=5000000011000031112&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="179" tvg-name="乐游" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="上海文广",乐游
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031112/1.m3u8?Contentid=5000000011000031112&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png" group-title="上海文广",法治天地
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/1.m3u8?Contentid=9001547084732463424&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="187" tvg-name="法治天地" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png" group-title="上海文广",法治天地
 http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/1.m3u8?Contentid=9001547084732463424&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="188" tvg-name="生活时尚" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shss.png" group-title="上海文广",生活时尚
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?Contentid=5000000002000019634&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="188" tvg-name="生活时尚" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shss.png" group-title="上海文广",生活时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?Contentid=5000000002000019634&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="285" tvg-name="七彩戏剧" tvg-logo="https://pic.erw.cc/epglogo/shuzi/qcxj.png" group-title="上海文广",七彩戏剧
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/1.m3u8?Contentid=5000000011000031116&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="285" tvg-name="七彩戏剧" tvg-logo="https://pic.erw.cc/epglogo/shuzi/qcxj.png" group-title="上海文广",七彩戏剧
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/1.m3u8?Contentid=5000000011000031116&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="185" tvg-name="金色学堂" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png" group-title="上海文广",金色学堂
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000026105/1.m3u8?Contentid=5000000010000026105&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="185" tvg-name="金色学堂" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png" group-title="上海文广",金色学堂
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000026105/1.m3u8?Contentid=5000000010000026105&livemode=1&stbId=2&channel-id=bestzb
-#EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="上海文广",游戏风云
+#EXTINF:-1 catchup="default" catchup-source="http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000027005/1.m3u8?Contentid=5000000002000027005&livemode=4&stbId=2&channel-id=bestzb&start=${start}&end=${timestamp}" tvg-id="222" tvg-name="游戏风云" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="上海文广",游戏风云
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000027005/1.m3u8?Contentid=5000000002000027005&livemode=1&stbId=2&channel-id=bestzb
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="182" tvg-name="CHC高清电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC1.png" group-title="数字频道",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
