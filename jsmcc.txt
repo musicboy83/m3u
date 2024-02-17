@@ -84,9 +84,9 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 南京影视频道,http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
 南京少儿频道,http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 南京生活频道,http://ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8
-镇江新闻综合频道,http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
+镇江新闻频道,http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
 镇江民生频道,http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
-镇江影视频道,http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
+镇江资讯频道,http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
 常州新闻频道,http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
 常州都市频道,http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
 常州生活频道,http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
