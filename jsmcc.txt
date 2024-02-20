@@ -165,9 +165,6 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 百变课堂,http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/d1.m3u8
 看天下精选,http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/d1.m3u8
 谍战剧场,http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/d1.m3u8
-超级体育,http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/d1.m3u8
-足球频道,http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/d1.m3u8
-陶瓷频道,http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/taocihd/8000000/d1.m3u8
 青春动漫,http://lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/d1.m3u8
 数字频道,#genre#
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
