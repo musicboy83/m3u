@@ -245,108 +245,103 @@ NewTV轮播频道,#genre#
 超级飞侠,http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
 庆余年,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 繁花,http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
-HUYA-一起看 电影,#genre#
-【周星星】星爷经典不间断,http://musicboy83.synology.me/diyp/huya.php?id=11342412&&media=hls
-英叔护体 | 林正英搞笑僵尸系列,http://musicboy83.synology.me/diyp/huya.php?id=11342421&media=hls
-雀刀门 最好看的东北喜剧,http://musicboy83.synology.me/diyp/huya.php?id=11352963&media=hls
-【虎牙影院】沈腾经典片放映,http://musicboy83.synology.me/diyp/huya.php?id=11601968&media=hls
-天不生我李淳罡，剑道万古如长夜,http://musicboy83.synology.me/diyp/huya.php?id=11336592&media=hls
-鬼吹灯虐我千百遍，我待鬼吹灯如初恋,http://musicboy83.synology.me/diyp/huya.php?id=11352883&media=hls
-飞驰人生·献丑了！,http://musicboy83.synology.me/diyp/huya.php?id=880261&media=hls
-成龙经典武打动作片,http://musicboy83.synology.me/diyp/huya.php?id=11342386&media=hls
-鬼吹灯系列最好的一部,http://musicboy83.synology.me/diyp/huya.php?id=11602075&media=hls
-李连杰系列 武打高产王,http://musicboy83.synology.me/diyp/huya.php?id=11342390&media=hls
-【王晶】港风导演代表,http://musicboy83.synology.me/diyp/huya.php?id=11602058&media=hls
-周润发电影 小马哥归来,http://musicboy83.synology.me/diyp/huya.php?id=11342387&media=hls
-周星星粤语经典版~,http://musicboy83.synology.me/diyp/huya.php?id=11336587&media=hls
-【五福星】每天都要快乐哦,http://musicboy83.synology.me/diyp/huya.php?id=11282233&media=hls
-【黑帮大片】山鸡哥重现江湖,http://musicboy83.synology.me/diyp/huya.php?id=11336719&media=hls
-历年贺岁档 笑就完事儿了,http://musicboy83.synology.me/diyp/huya.php?id=11601986&media=hls
-洪金宝·童年回忆杀,http://musicboy83.synology.me/diyp/huya.php?id=11279251&media=hls
-这些都是高智商的罪犯,http://musicboy83.synology.me/diyp/huya.php?id=11352962&media=hls
-良心医疗剧 主打的就是一个真实,http://musicboy83.synology.me/diyp/huya.php?id=11352890&media=hls
-经典之作·金庸群侠篇电影,http://musicboy83.synology.me/diyp/huya.php?id=11342427&media=hls
-搞笑恐怖类 弹幕护体,http://musicboy83.synology.me/diyp/huya.php?id=11601960&media=hls
-大刘著作 原著党的胜利！我哭了,http://musicboy83.synology.me/diyp/huya.php?id=11352954&media=hls
-【喜剧专场】我们一起找乐子,http://musicboy83.synology.me/diyp/huya.php?id=11602044&media=hls
-星漢燦爛，幸甚至哉！吴磊赵露思疑商夫妇不要太甜,http://musicboy83.synology.me/diyp/huya.php?id=11336591&media=hls
-【女神系列】邱淑贞 王祖贤 张曼玉 ,http://musicboy83.synology.me/diyp/huya.php?id=11336571&media=hls
-巨石强森系列:真肌肉就是爽,http://musicboy83.synology.me/diyp/huya.php?id=21059581&media=hls
-刘德华电影_经典系列,http://musicboy83.synology.me/diyp/huya.php?id=11342424&media=hls
-够劲，就是中国功夫,http://musicboy83.synology.me/diyp/huya.php?id=11352941&media=hls
-简小熙的直播间,http://musicboy83.synology.me/diyp/huya.php?id=11342399&media=hls
-永远的经典女神,无法超越啊,http://musicboy83.synology.me/diyp/huya.php?id=11352909&media=hls
-飙车的老司机的直播间,http://musicboy83.synology.me/diyp/huya.php?id=11352894&media=hls
-【警匪】不会演戏的警察不是好卧底,http://musicboy83.synology.me/diyp/huya.php?id=11352886&media=hls
-黑帮斗争 黑与白的对峙，情与义的泯灭,http://musicboy83.synology.me/diyp/huya.php?id=11342419&media=hls
-《jiang夜》终将至，花开彼岸天,http://musicboy83.synology.me/diyp/huya.php?id=11352885&media=hls
-玄幻剧场·体验另一种生活！,http://musicboy83.synology.me/diyp/huya.php?id=11342414&media=hls
-大场面战争片:一枚核弹爆炸,http://musicboy83.synology.me/diyp/huya.php?id=21059574&media=hls
-怪兽打架x异形世界：爽就完事了,http://musicboy83.synology.me/diyp/huya.php?id=21059577&media=hls
-千年永夜即将降临,http://musicboy83.synology.me/diyp/huya.php?id=21059554&media=hls
-搞笑喜剧：最佳拍档 开心鬼系列,http://musicboy83.synology.me/diyp/huya.php?id=11342423&media=hls
-【许氏三杰】快来 就差你了,http://musicboy83.synology.me/diyp/huya.php?id=11602033&media=hls
-Han国高分动作片 刺激过瘾,http://musicboy83.synology.me/diyp/huya.php?id=11352884&media=hls
-高丽少女的新东方历险记,http://musicboy83.synology.me/diyp/huya.php?id=21059586&media=hls
-si神来了系列  好怕怕,http://musicboy83.synology.me/diyp/huya.php?id=11352903&media=hls
-国产悬疑精选·智商在线,http://musicboy83.synology.me/diyp/huya.php?id=11342395&media=hls
-经典港剧笑嘻嘻,http://musicboy83.synology.me/diyp/huya.php?id=11352965&media=hls
-朋友，和赵盼儿一起跳支舞吗！？,http://musicboy83.synology.me/diyp/huya.php?id=11336590&media=hls
-【镖行天下】镖在人在,http://musicboy83.synology.me/diyp/huya.php?id=11352969&media=hls
-古墓系列·去冒险吧！,http://musicboy83.synology.me/diyp/huya.php?id=11352913&media=hls
-真正的硬汉007，铁打的詹姆斯邦德！,http://musicboy83.synology.me/diyp/huya.php?id=21059585&media=hls
-【十一推荐】动作要快，姿势要帅,http://musicboy83.synology.me/diyp/huya.php?id=11602041&media=hls
-不挤电影院也能笑着过春节！,http://musicboy83.synology.me/diyp/huya.php?id=11352897&media=hls
-杰森·斯坦森:郭达是你吗,http://musicboy83.synology.me/diyp/huya.php?id=21059588&media=hls
-只解沙场为国死，何须马革裹尸还,http://musicboy83.synology.me/diyp/huya.php?id=11601977&media=hls
-甄子丹 我要打十个,http://musicboy83.synology.me/diyp/huya.php?id=11352935&media=hls
-千面影帝梁家辉,http://musicboy83.synology.me/diyp/huya.php?id=11342429&media=hls
-动作电影来啦,http://musicboy83.synology.me/diyp/huya.php?id=11602077&media=hls
-枪战还是得看他！,http://musicboy83.synology.me/diyp/huya.php?id=21059579&media=hls
-快意江湖：金庸的武侠世界,http://musicboy83.synology.me/diyp/huya.php?id=11342435&media=hls
-厨子戏子痞子,http://musicboy83.synology.me/diyp/huya.php?id=11352876&media=hls
-那些年的香gang贺岁片,http://musicboy83.synology.me/diyp/huya.php?id=11601971&media=hls
-盗墓还得看经典的,http://musicboy83.synology.me/diyp/huya.php?id=21059552&media=hls
-玄幻专场·国产特效大制作,http://musicboy83.synology.me/diyp/huya.php?id=11352973&media=hls
-港剧最佳拍档 | 许冠英合集,http://musicboy83.synology.me/diyp/huya.php?id=11601972&media=hls
-情人节：港片教你追女仔,http://musicboy83.synology.me/diyp/huya.php?id=11602043&media=hls
-DC宇宙来啦，有你喜欢的英雄吗？,http://musicboy83.synology.me/diyp/huya.php?id=11342428&media=hls
-三观炸裂一家人,http://musicboy83.synology.me/diyp/huya.php?id=21059580&media=hls
-校园热血电影，不比古惑仔差,http://musicboy83.synology.me/diyp/huya.php?id=11352934&media=hls
-刺激到不行的韩版犯罪片,http://musicboy83.synology.me/diyp/huya.php?id=11352974&media=hls
-看完你也学不会系列~,http://musicboy83.synology.me/diyp/huya.php?id=11352945&media=hls
-牙缝多了根青菜的直播间,http://musicboy83.synology.me/diyp/huya.php?id=11352877&media=hls
-全球最烧脑悬疑片 哪部是你的最爱,http://musicboy83.synology.me/diyp/huya.php?id=11352880&media=hls
-永远怀念“黄药师”曾江,http://musicboy83.synology.me/diyp/huya.php?id=11601981&media=hls
-橙光游戏改变 我从来没见过这么炸裂的演技！,http://musicboy83.synology.me/diyp/huya.php?id=11602034&media=hls
-童年女神周海媚！她一笑我就恋爱了,http://musicboy83.synology.me/diyp/huya.php?id=11279247&media=hls
-【百基争郎】性转版臻环传，16个男人争一个，我大受震撼！,http://musicboy83.synology.me/diyp/huya.php?id=21059578&media=hls
-法外狂徒张三李四,http://musicboy83.synology.me/diyp/huya.php?id=11601965&media=hls
-至尊神眼第28集,http://musicboy83.synology.me/diyp/huya.php?id=11352887&media=hls
-HUYA-TVB剧场,#genre#
-【封神榜】割肉还母剔骨还父,http://musicboy161.synology.me/diyp/huya.php?id=23749096&media=hls
-看孙悟空唐三藏取西经,http://musicboy162.synology.me/diyp/huya.php?id=23735126&media=hls
-楚汉骄雄-我恨做皇后 但我做刘邦的皇后,http://musicboy163.synology.me/diyp/huya.php?id=23740156&media=hls
-张卫健版西游记-当蜘蛛精看上了齐天大圣,http://musicboy164.synology.me/diyp/huya.php?id=23728660&media=hls
-【鹿鼎记】小春版韦小宝 是你心中最经典的版本吗？,http://musicboy165.synology.me/diyp/huya.php?id=23865080&media=hls
-【法证先锋】侦查片天花板 超经典,http://musicboy166.synology.me/diyp/huya.php?id=23863804&media=hls
-【刑事侦缉档案】最棒的警匪片系列,http://musicboy167.synology.me/diyp/huya.php?id=23734169&media=hls
-【寻秦记】穿越剧鼻祖·百看不厌的古天乐宣萱CP,http://musicboy168.synology.me/diyp/huya.php?id=23864973&media=hls
-【天龙八部】最佳版本天龙·97版黄日华超神作,http://musicboy169.synology.me/diyp/huya.php?id=23903123&media=hls
-【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演,http://musicboy170.synology.me/diyp/huya.php?id=23903130&media=hls
-【陀枪师姐】永远的陈小生 无法超越的经典,http://musicboy171.synology.me/diyp/huya.php?id=23860039&media=hls
-【笑傲江湖】吕颂贤就是哪个令狐冲！最被认可的笑傲江湖！,http://musicboy172.synology.me/diyp/huya.php?id=23865142&media=hls
-【倚天屠龙记】最爱的赵敏永远是黎姿,http://musicboy173.synology.me/diyp/huya.php?id=23734246&media=hls
-【使徒行者】正邪相斗 情义两难,http://musicboy174.synology.me/diyp/huya.php?id=23734256&media=hls
-【鉴证实录】天网恢恢，疏而不漏,http://musicboy175.synology.me/diyp/huya.php?id=23903183&media=hls
-【神雕侠侣】不能超越的杨过和姑姑·古天乐最强出演,http://musicboy176.synology.me/diyp/huya.php?id=23865171&media=hls
-扫黄先锋·欧阳震华在不能不看,http://musicboy177.synology.me/diyp/huya.php?id=23903196&media=hls
-【创世纪】神预言，剧里的金融地产现在都成真了！,http://musicboy178.synology.me/diyp/huya.php?id=23749083&media=hls
-金枝欲孽-宫斗剧才一开山既已是巅峰！,http://musicboy179.synology.me/diyp/huya.php?id=23865036&media=hls
-【大唐双龙传】爱你恨你，一生一世,http://musicboy180.synology.me/diyp/huya.php?id=23728674&media=hls
-【妙手仁心】最出色的都市剧之一,http://musicboy181.synology.me/diyp/huya.php?id=23829543&media=hls
-【笑看风云】再无包文龙，再无林贞烈,http://musicboy182.synology.me/diyp/huya.php?id=23865058&media=hls
-【大时代】史上主角疯子最多的片·荡气回肠大时代！,http://musicboy183.synology.me/diyp/huya.php?id=23865161&media=hls
-野蛮亲家血腥对线！,http://musicboy184.synology.me/diyp/huya.php?id=23863796&media=hls
-射雕之九阴真经-姜大卫 张智霖,http://musicboy185.synology.me/diyp/huya.php?id=23824164&media=hls
-【梁朝伟版鹿鼎记】梁朝伟和刘德华还能拒绝吗,http://musicboy186.synology.me/diyp/huya.php?id=23734183&media=hls
+HUYA-电影频道,#genre#
+电影_星爷,https://live.metshop.top/huya/11342412
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_发哥,https://live.metshop.top/huya/11342387
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_强森,https://live.metshop.top/huya/21059581
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_赛车,https://live.metshop.top/huya/11279247
+电影_推荐,https://live.metshop.top/huya/11602041
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_港片,https://live.metshop.top/huya/11602043
+电影_国产,https://live.metshop.top/huya/11352973
+电影_周星星,https://live.metshop.top/huya/11336587
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_洪金宝,https://live.metshop.top/huya/11279251
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
+电影_斯坦森,https://live.metshop.top/huya/21059588
+电影_小鬼头,https://live.metshop.top/huya/11352963
+电影_八点档,https://live.metshop.top/huya/880261
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
+电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_功夫片,https://live.metshop.top/huya/11352941
+电影_黑帮片,https://live.metshop.top/huya/11336719
+电影_丧尸片,https://live.metshop.top/huya/21059578
+电影_灾难片,https://live.metshop.top/huya/11602075
+电影_谍战片,https://live.metshop.top/huya/21059587
+电影_战争片,https://live.metshop.top/huya/21059574
+电影_犯罪片,https://live.metshop.top/huya/11352974
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_高分动作,https://live.metshop.top/huya/11352884
+电影_动作电影,https://live.metshop.top/huya/11602077
+电影_搞笑喜剧,https://live.metshop.top/huya/11342423
+电影_喜剧专场,https://live.metshop.top/huya/11602044
+电影_欢笑影院,https://live.metshop.top/huya/11352894
+电影_不挤影院,https://live.metshop.top/huya/11352897
+电影_国产悬疑,https://live.metshop.top/huya/11342395
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_黑帮斗争,https://live.metshop.top/huya/11342419
+电影_嫣然影厅,https://live.metshop.top/huya/11601977
+电影_许氏三杰,https://live.metshop.top/huya/11602033
+电影_经典港片,https://live.metshop.top/huya/11352965
+电影_镖行天下,https://live.metshop.top/huya/11352969
+电影_高能反转,https://live.metshop.top/huya/11352887
+电影_喜乐影院,https://live.metshop.top/huya/21059580
+电影_蘑菇影厅,https://live.metshop.top/huya/11601981
+电影_搞笑恐怖,https://live.metshop.top/huya/11601960
+电影_死神来了,https://live.metshop.top/huya/11352903
+电影_变形金刚,https://live.metshop.top/huya/21059596
+电影_怪兽系列,https://live.metshop.top/huya/21059554
+剧集_老三国,https://live.metshop.top/huya/11602081
+剧集_新三国,https://live.metshop.top/huya/11352944
+剧集_新水浒,https://live.metshop.top/huya/11342384
+剧集_纪晓岚,https://live.metshop.top/huya/11342396
+剧集_庆余年,https://live.metshop.top/huya/11352960
+剧集_雍正王朝,https://live.metshop.top/huya/11342439
+剧集_士兵突击,https://live.metshop.top/huya/11342430
+剧集_爱情公寓,https://live.metshop.top/huya/11336726
+剧集_武林外传,https://live.metshop.top/huya/21059598
+剧集_地下交通站,https://live.metshop.top/huya/11342433
+剧集_邻里一家亲,https://live.metshop.top/huya/11342426
+搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
+解说_鹿哥电影,https://live.metshop.top/huya/24396360
+解说_斌哥漫说,https://live.metshop.top/huya/18632116
+解说_续哥说电影,https://live.metshop.top/huya/24396472
+解说_小川侃电影,https://live.metshop.top/huya/15870999
+解说_阿良说剧,https://live.metshop.top/huya/20488841
+解说_鱼丸电影,https://live.metshop.top/huya/16615910
+解说_阿斗说电影,https://live.metshop.top/huya/13303478
+解说_扁豆看电影,https://live.metshop.top/huya/16028551
+解说_乌贼说电影,https://live.metshop.top/huya/16604522
+解说_大象放映室,https://live.metshop.top/huya/21277391
+解说_科幻梦工场,https://live.metshop.top/huya/15152155
+解说_亮哥讲电影,https://live.metshop.top/huya/16144175
+解说_越哥说电影,https://live.metshop.top/huya/15894162
+解说_小冉看电影,https://live.metshop.top/huya/17341907
+解说_阿翔说电影,https://live.metshop.top/huya/16868935
+解说_虎妞说电影,https://live.metshop.top/huya/20343144
+解说_涵哥评电影,https://live.metshop.top/huya/16865726
+解说_老皮讲电影,https://live.metshop.top/huya/16968572
+解说_默爷侃电影,https://live.metshop.top/huya/17204307
+解说_冷君说电影,https://live.metshop.top/huya/16739452
+解说_恐怖电影解说,https://live.metshop.top/huya/16741179
