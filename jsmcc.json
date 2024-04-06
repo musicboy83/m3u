@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "TXT",
-      "url": "https://raw.gitmirror.com/musicboy83/m3u/master/jsmcc.txt",
+      "url": "https://cdn.jsdelivr.net/gh/musicboy83/m3u@master/jsmcc.txt",
       "epg": "http://diyp100.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp100.112114.xyz/logo/{name}.png"
     }
