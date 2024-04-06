@@ -246,7 +246,7 @@ NewTV轮播频道,#genre#
 庆余年,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 繁花,http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
 HUYA-一起看 电影,#genre#
-【周星星】星爷经典不间断,http://musicboy83.synology.me/diyp/huya.php?id=11342412
+【周星星】星爷经典不间断,http://musicboy83.synology.me/diyp/huya.php?id=11342412&cdn=hwcdn&media=hls
 英叔护体 | 林正英搞笑僵尸系列,http://musicboy83.synology.me/diyp/huya.php?id=11342421
 雀刀门 最好看的东北喜剧,http://musicboy83.synology.me/diyp/huya.php?id=11352963
 【虎牙影院】沈腾经典片放映,http://musicboy83.synology.me/diyp/huya.php?id=11601968
