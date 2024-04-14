@@ -167,9 +167,9 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 谍战剧场,http://123.184.27.215/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/d1.m3u8
 青春动漫,http://123.184.27.215/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/d1.m3u8
 数字频道,#genre#
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8
+CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8
 CCTV电视指南,http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
 CCTV文化精品,http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
