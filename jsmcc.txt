@@ -249,6 +249,7 @@ NewTV轮播频道,#genre#
 漫长的季节,http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
 猎冰,http://ott.mobaibox.com/PLTV/3/224/3221228624/index.m3u8
 永安梦,http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
+测试,http://tptv.mobaibox.com/PLTV/3/224/3221228527/1.m3u8?accountinfo=pFxP2vrxKwnB6rRkbluzLr1snyVtUvL0ln7oEaT%2FZn10jZxgbY2HUwDYbDsdLBomvnnHS%2Fwexz1UYCk%2BgA3K%2FpVmN4ksD2FQ92IXsdC3G7ldu9XJHCjJGd7DJ%2FIdAqJXp6jzgqsHVMBWu4n0REhZxQ%3D%3D%3A20240413145502%2C-%2C112.25.7.222%2C20240413145502%2CHD-10000k-1080P-fhchinese5s%2C992A307DD03B66D4A24A1380D2238385%2C%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C-3%2C2%2CEND&GuardEncType=2
 HUYA-电影频道,#genre#
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
