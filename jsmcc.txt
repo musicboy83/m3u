@@ -19,10 +19,12 @@ CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
 CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CGTN,http://ott.mobaibox.com/PLTV/1/224/3221228811/index.m3u8
 CETV1,http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8#http://web.7u.org:9000/rtp/239.49.8.115:8000
 CETV2,http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 CETV3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
+CETV早期教育,http://ott.mobaibox.com/PLTV/1/224/3221228692/index.m3u8
 卫视频道,#genre#
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -90,8 +92,8 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 常州都市频道,http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
 常州生活频道,http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
 常州公共频道,http://ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
-苏州新闻频道,http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-扬州新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8
+无锡新闻频道,http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+扬州新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
 扬州城市频道,http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
 扬州生活频道,http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 泰州新闻综合频道,http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
@@ -108,7 +110,8 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 连云港公共,http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
 宿迁综合频道,http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 宿迁公共频道,http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
-淮安新闻频道,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+淮安新闻频道,http://ott.mobaibox.com/PLTV/1/224/3221228834/index.m3u8
+淮安影视娱乐,http://ott.mobaibox.com/PLTV/1/224/3221228837/index.m3u8
 沛县新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
 沛县经济生活,http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
 沛县文艺影视,http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
@@ -125,10 +128,7 @@ CETV4,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 铜山1,http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
 铜山2,http://ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
 泗洪综合,http://ott.mobaibox.com/PLTV/3/224/3221228521/index.m3u8
-赣榆,http://ott.mobaibox.com/PLTV/3/224/3221227503/index.m3u8
-崇川,http://ott.mobaibox.com/PLTV/3/224/3221228533/index.m3u8
-东海新闻频道,http://ott.mobaibox.com/PLTV/3/224/3221226392/index.m3u8
-仪征电视台,http://ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
+Live南京,http://ott.mobaibox.com/PLTV/1/224/3221228709/index.m3u8
 上海文广,#genre#
 上海新闻,http://cloud.sunrisecom.wang:8888/udp/239.45.3.209:5140#http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=5000000011000031110&livemode=1&stbId=3&channel-id=bestzb
 上海都市,http://cloud.sunrisecom.wang:8888/udp/239.45.3.236:5140#http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=5000000010000018926&livemode=1&stbId=3&channel-id=bestzb
@@ -188,9 +188,6 @@ CCTV中学生,http://ott.mobaibox.com/PLTV/3/224/3221228704/index.m3u8
 纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 家庭理财,http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
 篮球,http://ott.mobaibox.com/PLTV/3/224/3221227023/index.m3u8
-奕坛春秋,http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
-置业频道,http://ott.mobaibox.com/PLTV/3/224/3221227037/index.m3u8
-京视剧场,http://ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
 中华美食,http://ott.mobaibox.com/PLTV/3/224/3221227017/index.m3u8
 茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
