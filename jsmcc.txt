@@ -219,12 +219,14 @@ NewTV轮播频道,#genre#
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8#http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000012884/1.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009204/1.m3u8?Contentid=1000000001000009204&livemode=1&stbId=2&channel-id=ystenlive
 超级综艺,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8#http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000025771/1.m3u8?Contentid=1000000001000025771&livemode=1&stbId=2&channel-id=ystenlive
+晴彩篮球,http://ott.mobaibox.com/PLTV/1/224/3221228129/index.m3u8
+晴彩竞技,http://ott.mobaibox.com/PLTV/1/224/3221228206/index.m3u8
+晴彩青少,http://ott.mobaibox.com/PLTV/1/224/3221228729/index.m3u8
+晴彩广场舞,http://ott.mobaibox.com/PLTV/1/224/3221228818/index.m3u8
 联播频道,#genre#
 江苏大众剧院,http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 江苏第一院线,http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 高分电影,http://223.110.255.157:6610/gitv/live1/GITV-JS-14/GITV-JS-14.m3u8
-咪咕精彩足球,http://ott.mobaibox.com/PLTV/1/224/3221228129/index.m3u8
-咪咕综合体育,http://ott.mobaibox.com/PLTV/1/224/3221228206/index.m3u8
 体坛同期声,http://ott.mobaibox.com/PLTV/1/224/3221228713/index.m3u8
 掼蛋频道,http://ott.mobaibox.com/PLTV/1/224/3221228586/index.m3u8
 全民热练,http://ott.mobaibox.com/PLTV/1/224/3221228427/index.m3u8
@@ -245,7 +247,6 @@ NewTV轮播频道,#genre#
 漫长的季节,http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
 猎冰,http://ott.mobaibox.com/PLTV/3/224/3221228624/index.m3u8
 永安梦,http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
-测试,http://tptv.mobaibox.com/PLTV/3/224/3221228527/1.m3u8?accountinfo=pFxP2vrxKwnB6rRkbluzLr1snyVtUvL0ln7oEaT%2FZn10jZxgbY2HUwDYbDsdLBomvnnHS%2Fwexz1UYCk%2BgA3K%2FpVmN4ksD2FQ92IXsdC3G7ldu9XJHCjJGd7DJ%2FIdAqJXp6jzgqsHVMBWu4n0REhZxQ%3D%3D%3A20240413145502%2C-%2C112.25.7.222%2C20240413145502%2CHD-10000k-1080P-fhchinese5s%2C992A307DD03B66D4A24A1380D2238385%2C%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C-3%2C2%2CEND&GuardEncType=2
 HUYA-电影频道,#genre#
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
@@ -346,4 +347,3 @@ HUYA-电影频道,#genre#
 解说_默爷侃电影,https://live.metshop.top/huya/17204307
 解说_冷君说电影,https://live.metshop.top/huya/16739452
 解说_恐怖电影解说,https://live.metshop.top/huya/16741179
-江苏银行,http://cdn.live.cloud.nagasoft.cn/live/jsbc.m3u8
