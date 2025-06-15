@@ -248,6 +248,12 @@ NewTV轮播频道,#genre#
 漫长的季节,http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
 猎冰,http://ott.mobaibox.com/PLTV/3/224/3221228624/index.m3u8
 永安梦,http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
+江苏省城市足球联赛1,http://mt.xethan.cn:8188/rtp/239.49.8.96:8000
+江苏省城市足球联赛2,http://mt.xethan.cn:8188/rtp/239.49.8.99:8000
+江苏省城市足球联赛3,http://mt.xethan.cn:8188/rtp/239.49.8.100:8000
+江苏省城市足球联赛4,http://mt.xethan.cn:8188/rtp/239.49.8.97:8000
+江苏省城市足球联赛5,http://mt.xethan.cn:8188/rtp/239.49.8.98:8000
+江苏省城市足球联赛6,http://mt.xethan.cn:8188/rtp/239.49.8.101:8000
 HUYA-电影频道,#genre#
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
