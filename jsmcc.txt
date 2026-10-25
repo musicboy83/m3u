@@ -212,9 +212,9 @@ NewTV轮播频道,#genre#
 中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 炫舞未来,http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 怡伴健康,http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+明星大片,http://ott.mobaibox.com/PLTV/1/224/3221227594/index.m3u8
 谍战大剧,http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
 烽烟剧场,http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-NewTV明星大片,http://ott.mobaibox.com/PLTV/1/224/3221227594/index.m3u8
 睛彩篮球,http://ott.mobaibox.com/PLTV/1/224/3221228129/index.m3u8
 睛彩竞技,http://ott.mobaibox.com/PLTV/1/224/3221228206/index.m3u8
 睛彩青少,http://ott.mobaibox.com/PLTV/1/224/3221228729/index.m3u8
